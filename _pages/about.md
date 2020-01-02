@@ -12,4 +12,4 @@ Hi, I'm Rupasmita Devi, and I am a very cool person. You can ping me on facebook
 
 For more info
 ------
-I am also available on tinder and whatsapp at +91-9929025884.
+I am also available on whatsapp at +91-9929025884.
