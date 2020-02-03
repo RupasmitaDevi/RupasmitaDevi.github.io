@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Rupasmita Devi, and I am a very cool person. You can ping me on facebook at [Rupasmita Devi](https://www.facebook.com/rupasmita.devi) to know more about me.
+Hello, I am Rupasmita Devi, originally from Assam, India. I graduated from BITS Pilani (B.E., Computer Science) in 2018 and have been working at Tesco Bengaluru Pvt. Ltd. since then. 
 
-For more info
-------
-I am also available on whatsapp at +91-9929025884.
+I shall be joining the famous Trinity College Dublin from fall 2020 as a graduate student in Data Science.
