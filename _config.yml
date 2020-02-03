@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rupasmita Devi"
   avatar           : "profile.jpeg"
-  bio              : "Computer Science @ BITS Pilani"
-  location         : "Tesco, Banglore"
+  bio              : "Software Development Engineer | Loves Music"
+  location         : "Banglore, India"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "rupasmita.devi@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "RupasmitaDevi"
   google_plus      : 
   keybase          :
-  instagram        :
+  instagram        : "_kohua"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "rupasmitadevi"
