@@ -2,8 +2,6 @@
 title: "Work Experiences"
 author_profile: true
 permalink: /workex/
-redirect_from:
-  - /experiences/
 ---
 ## <i>Graduate Software Development Engineer</i>
 ### Tesco Bengaluru, India (July 2018–Present)

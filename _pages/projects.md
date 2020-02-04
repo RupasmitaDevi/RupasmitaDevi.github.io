@@ -2,8 +2,6 @@
 title: "Major Projects"
 author_profile: true
 permalink: /projects/
-redirect_from:
-  - /project/
 ---
 ## <i>Modelling Customer and Product Profiles for Quick and Better Recommendations</i>
 ### Tesco Bengaluru, India (June–July 2019)
