@@ -23,7 +23,7 @@ etc.
 * Used React.js for rendering the pages, also used jQuery, webpack, grunt and babel in order to deliver the project
 
 ## <i>Software Intern</i>
-### Grasim Industries, Madhya Pradesh, India (May–July 2016<)
+### Grasim Industries, Madhya Pradesh, India (May–July 2016)
 * Created an online platform to maintain employee records and manage transaction between employee and office
 * Incorporated online services like conveyance booking and availing medical allowances in system for easy access
 * Used PHP and MySQL for backend, and HTML-5 and CSS-3 for frontend
