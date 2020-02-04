@@ -1,6 +1,5 @@
 ---
 title: "Major Projects"
-excerpt: ""
 author_profile: true
 permalink: /projects/
 redirect_from:
