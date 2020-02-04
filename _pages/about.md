@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Rupasmita Devi, originally from Assam, India. I graduated from BITS Pilani (B.E., Computer Science) in 2018 and have been working at Tesco Bengaluru Pvt. Ltd. since then. 
+Hello, I am Rupasmita from Assam, India. I have always been fascinated by numbers and love indulging in problem-solving. I feel data-driven insight is the strongest source of truth to arrive at a decision. I completed my Bachelor of Engineering in Computer Science from BITS Pilani in 2018 and have been working as a Software Developer at Tesco Bengaluru Pvt. Ltd. since then. 
 
 I shall be joining the famous Trinity College Dublin from fall 2020 as a graduate student in Data Science.
