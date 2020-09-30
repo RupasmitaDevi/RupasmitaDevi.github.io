@@ -4,7 +4,7 @@ author_profile: true
 permalink: /workex/
 ---
 ## <i>Graduate Software Development Engineer</i>
-### Tesco Bengaluru, India (July 2018–Present)
+### Tesco Bengaluru, India (July 2018–August 2020)
 * Wrote critical functionalities for Mobile Microsite and Grocery Home Shopping website to serve Tesco’s online business
 * Worked in Mobile Microsite’s entire integration testing with consumers and downstream services, both in PPE
 and production
